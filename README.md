@@ -17,8 +17,8 @@ Si te interesa contactar conmigo, hacer algun proyecto conjunto o contratarme si
 - :video_game: Unity  
 - :iphone: Android Studio
 - :iphone: XCode
-- XAMPP
-- PHPMyAdmin
+- 🛢 XAMPP
+- 🛢 PHPMyAdmin
   
 - :camera: Photoshop
 - :film_strip: Premiere
